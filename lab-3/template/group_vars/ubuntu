@@ -1,4 +1,4 @@
 ---
 ansible_become: true
-ansible_become_pass: <FIX IT> 
+ansible_become_pass: password
 ...
